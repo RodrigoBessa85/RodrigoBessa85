@@ -14,7 +14,7 @@
   <img align="center" alt="bessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bessa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="bessa-yoda" src="https://cdn.discordapp.com/attachments/533097185059799060/872281955448799242/giphy.png">
+  <img align="right" alt="bessa-yoda" src="https://media.giphy.com/media/jq0NR6AaOabifVixWB/giphy.gif">
 </div>
     
   ##
